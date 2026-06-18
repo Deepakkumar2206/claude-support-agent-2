@@ -114,13 +114,6 @@ customer-agent-stage2/
 
 ## Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/Deepakkumar2206/customer-agent-stage2.git
-cd customer-agent-stage2
-```
-
 ### Install Dependencies
 
 ```bash
